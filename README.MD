@@ -68,7 +68,7 @@
   ![leelib](/data/imgs/leelib.png)
   Small school library management system
 
-  > [leelib.stanleykariuki.online](htpps://leelib.stanleykariuki.online)
+  > [https://leelib.stanleykariuki.online](htpps://leelib.stanleykariuki.online)
 
 - ### Paddys
 
@@ -82,21 +82,21 @@
   ![leelib](/data/imgs/sokofresh.png)
   Online Grocery store
 
-  > [sokofresh.stanleykariuki.online](htpps://sokofresh.stanleykariuki.online)
+  > [https://sokofresh.stanleykariuki.online](htpps://sokofresh.stanleykariuki.online)
 
 - ### Sokofresh Admin
 
   ![leelib](/data/imgs/admin-sokofreh.png)
   Admin Dashbord for the sokofresh client web app.
 
-  > [leelib.stanleykariuki.online](htpps://leelib.stanleykariuki.online)
+  > [https://leelib.stanleykariuki.online](htpps://leelib.stanleykariuki.online)
 
 - ### Sokoney (Maintain)
 
   ![leelib](/data/imgs/sokoney.png)
   Multishop eccomerce platform
 
-  > [sokoney.com](htpps://sokoney.com)
+  > [https://sokoney.com](htpps://sokoney.com)
 
 </br>
 <p align="center"> 
