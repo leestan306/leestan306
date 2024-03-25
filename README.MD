@@ -61,14 +61,7 @@
 -->
 <!-- </p> -->
 
-## Stuff I did ⏳:
-
-- ### leelib
-
-  ![leelib](/data/imgs/leelib.png)
-  Small school library management system
-
-  > [https://leelib.stanleykariuki.online](htpps://leelib.stanleykariuki.online)
+## Previous Work ⏳:
 
 - ### Linkarp
 
@@ -83,6 +76,13 @@
   Online Grocery store
 
   > [https://sokofresh.stanleykariuki.online](htpps://sokofresh.stanleykariuki.online)
+
+- ### leelib
+
+  ![leelib](/data/imgs/leelib.png)
+  Small school library management system
+
+  > [https://leelib.stanleykariuki.online](htpps://leelib.stanleykariuki.online)
 
 - ### Sokofresh Admin
 
