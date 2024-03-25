@@ -70,12 +70,12 @@
 
   > [https://leelib.stanleykariuki.online](htpps://leelib.stanleykariuki.online)
 
-- ### Paddys
+- ### Linkarp
 
-  ![leelib](/data/imgs/paddys.png)
-  Liqour online store
+  ![leelib](/data/imgs/linkarp.png)
+  Kenyan First Networking site.
 
-  > [paddys.vercel.app/](https://paddys-client.vercel.app)
+  > [linkarp.com](https://linkarp.com/)
 
 - ### sokofresh
 
